@@ -6,5 +6,5 @@ class Person:
     def greet(self):
         print(f"Hello my name is {self.name} and i am {self.age} years old")
         
-person1 = Person("mandar" , 21)
+person1 = Person("mandar" , 20)
 person1.greet()
