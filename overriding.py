@@ -4,7 +4,7 @@ class Animal:
 
 class Dog(Animal):
     def make_sound(self):
-        print("Woof! Woof!")
+        print("bark!")
 
 class Cat(Animal):
     def make_sound(self):
